@@ -1,0 +1,8 @@
+class Usuario{
+	
+	String nombre;
+	int edad;
+	String celular;
+	String direccion;
+
+}
